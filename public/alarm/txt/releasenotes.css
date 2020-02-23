@@ -1,0 +1,25 @@
+body 
+{ 
+	color: Black;
+	background-color: White;
+}
+h1 
+{
+	font-family: Arial;
+	font-size: 12pt;
+	font-style:oblique;
+}
+h2 
+{
+	font-family: Arial;
+	font-size: 12pt;
+	border-bottom: solid;
+	border-color: Black;
+	max-width: 500px;
+}
+ul.changes
+{
+	font-size: 10pt;
+  	font-family:Arial;
+  	width: 450px;
+}
